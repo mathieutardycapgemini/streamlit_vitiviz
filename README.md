@@ -1,1 +1,1 @@
-# streamlit_vitiviz
+# Streamlit Vitiviz
